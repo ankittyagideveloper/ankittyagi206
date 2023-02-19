@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrayaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
 
-- 🔭 I’m currently working at on **Telus International**
+- 🔭 I’m currently working at **Telus International**
 
 - 💬 Ask me about **JS, ReactJS, and CSS frameworks**
 
